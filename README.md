@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @formant56
-- 👀 I’m interested in Blockchain technology
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in Web Apps and Blockchain technology
 - 🌱 I’m currently learning React 
 
 
